@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Competitive Programmer | AI & Systems Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive Programmer;System+Design+Learner;AI+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer;System+Design+Learner;AI+Explorer&center=true&width=500&height=45">
 </p>
 
 <p align="center">
