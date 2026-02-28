@@ -14,9 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer;System+Level+Builder;AI+Explorer&center=true&width=500&height=45&color=2563EB">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Backend-2563EB?style=for-the-badge" />
