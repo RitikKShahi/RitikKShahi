@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Competitive Programmer | AI & Systems Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer;System+Design+Learner;AI+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer;System+Level+Builder;AI+Explorer&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -13,19 +13,15 @@
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
-
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Scalable Full Stack Applications**
-- 🚀 Working on **System Level Projects**
+- 🔭 Currently building **Scalable & System-Level Applications**
+- 🚀 Interested in **Backend Architecture & OS Concepts**
 - 🌱 Learning **Machine Learning & System Design**
 - 💯 Solved 1000+ DSA problems
-- ⚡ Passionate about backend architecture & performance
+- ⚡ Love working close to the system layer
 
 ---
-
-<!-- ========================= TECH STACK ========================= -->
 
 ## 🛠 Tech Stack
 
@@ -33,6 +29,7 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 
 ---
 
@@ -50,23 +47,39 @@
 
 ---
 
-### 🧠 Currently Exploring
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-red?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System-Design-orange?style=for-the-badge)
+### 🧠 Libraries & Low-Level Tools
+![POSIX](https://img.shields.io/badge/POSIX-Sockets-darkred?style=for-the-badge)
+![Raylib](https://img.shields.io/badge/Raylib-black?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux)
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
-
 ## 🚀 Featured Projects
 
-### 🍔 MealVery – Swiggy Inspired Food Delivery App
-- Full Stack Application
-- Firebase Authentication
-- Redux State Management
-- Restaurant Search System
-- Cart + Checkout Flow
+### 📊 Dynamic CSV Reader
+- Built in **C**
+- Efficient file parsing & memory handling
+- Dynamic memory allocation
+- Handles large CSV datasets
+- Focused on performance & low-level optimization
+
+---
+
+### 🖥 Shell Wars
+- Custom terminal-based game
+- Built using **Raylib**
+- System-level input handling
+- Rendering & event loop management
+- Explored OS-level concepts & real-time graphics
+
+---
+
+### 🌐 Socket-Based Networking Project
+- Implemented using **POSIX Sockets**
+- TCP client-server architecture
+- Low-level networking concepts
+- Manual packet handling & communication logic
 
 ---
 
@@ -78,7 +91,6 @@
 </p>
 
 ---
----
 
 ## 🌐 Connect With Me
 
@@ -86,11 +98,8 @@
   <a href="https://www.linkedin.com/in/ritik-kumar-shahi-792466288/?originalSubdomain=in">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF">
-    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge">
-  </a>
 </p>
 
 ---
 
-<h3 align="center">🔥 Building. Learning. Scaling. 🚀</h3>
+<h3 align="center">🔥 Building at the System Level. Scaling to the Cloud. 🚀</h3>
