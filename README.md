@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">
-  <span style="color:#2563EB;">Hi 👋, I'm Ritik Kumar Shahi</span>
+  <span style="color:#2563EB;">Hi 👻, I'm Ritik </span>
 </h1>
 
 <h3 align="center">
